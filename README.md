@@ -1,4 +1,4 @@
-# mascotas
+# Recetario
 
 ## Project setup
 ```
